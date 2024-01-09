@@ -38,4 +38,13 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
 
 # 🤹‍♀️ Skills
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /></div>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
+</div>
