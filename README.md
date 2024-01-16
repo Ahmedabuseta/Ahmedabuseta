@@ -43,5 +43,4 @@ Thank you for taking the time to learn more about me. I look forward to the oppo
 <!--   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="86" height="86" /> -->
 <!--   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /> -->
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="86" height="86" />
 </div>
